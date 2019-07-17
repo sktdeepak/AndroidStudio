@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Info Green</string>
+    <string name="hint_input_address">Please enter URL</string>
+    <string name="save_url">Save URL</string>
+</resources>
